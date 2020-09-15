@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestSHIFTLAB</string>
+
+    <string name="first_name">Name</string>
+    <string name="last_name">Surname</string>
+    <string name="date">Date</string>
+    <string name="password">Password</string>
+
+    <string name="e_first_name">Enter name</string>
+    <string name="e_last_name">Enter surname</string>
+    <string name="e_password">Enter password</string>
+    <string name="e_r_password">Repeat password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="hello">Hello</string>
+    <string name="date_hint">dd.mm.yyyy</string>
+</resources>
